@@ -1,1 +1,1 @@
-My first README Shell permissions
+switches the current user to the user betty
